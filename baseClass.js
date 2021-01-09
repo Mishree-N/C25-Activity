@@ -13,7 +13,7 @@ class baseClass {
             density:1
         }
         //add image
-        this.image=loadImage("sprites/base.png");
+        this.image=loadImage("base.png");
         //create bird body
         this.body = Bodies.rectangle (x, y, this.width, this.height, base_options);
         //add bird body to world
