@@ -6,7 +6,7 @@ class Pig extends baseClass {
         //create body
         super(x,y,50,50);
         //add image
-        this.image=loadImage("sprites/enemy.png");
+        this.image=loadImage("enemy.png");
 
     }
 }
