@@ -17,7 +17,7 @@ var backgroundImg;
 function preload(){
 
   //load background image
-  backgroundImg=loadImage("sprites/bg.png");
+  backgroundImg=loadImage("bg.png");
 
 }
 
