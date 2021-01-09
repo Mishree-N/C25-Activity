@@ -6,7 +6,7 @@ class Box extends baseClass {
         //create body for box
         super(x,y,width,height);
         //add image to box
-        this.image=loadImage("sprites/wood1.png");
+        this.image=loadImage("wood1.png");
 
     }
 
