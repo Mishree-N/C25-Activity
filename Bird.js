@@ -6,7 +6,7 @@ class Bird extends baseClass{
         //create body for bird
         super(x,y,50,50);
         //add image to bird
-        this.image=loadImage("sprites/bird.png");
+        this.image=loadImage("bird.png");
     }
 
     display(){
